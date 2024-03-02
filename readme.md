@@ -52,7 +52,7 @@ References to job and career details, organized by country and category.
 
 ## Follow
 
-- [marmelo](https://github.com/marmelo/tech-companies-in-portugal) :github:
+- [marmelo](https://github.com/marmelo/tech-companies-in-portugal) :octocat:
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
