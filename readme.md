@@ -1,3 +1,4 @@
+<!--lint disable awesome-git-repo-age-->
 <div align="center">
 
 <!-- title -->
@@ -31,7 +32,7 @@ References to job and career details, organized by country and category.
 ## Contents
 
 - [Online References](#online-references)
-- [Portugal 🇵🇹](#portugal)
+- [Portugal](#portugal)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -40,7 +41,7 @@ References to job and career details, organized by country and category.
 
 - [remote|OK](https://remoteok.com/) - Find remote jobs by country.
 
-## Portugal 🇵🇹
+## Portugal
 ### Automotive
 - [AddVolt](https://www.addvolt.com/en/#Contacts) - AddVolt's platform reduces CO2 in the heavy transportation sector.  
 - [Bosch](https://www.bosch.pt/carreiras/) - German engineering and technology company with a big focus on the automotive industry.
