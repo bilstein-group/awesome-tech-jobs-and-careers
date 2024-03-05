@@ -2,7 +2,11 @@
 
 <!-- title -->
 
+<div align="left">
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![Lint Awesome List](https://github.com/jthegedus/awesome-firebase/workflows/lint/badge.svg)
+
+</div>
 
 # Awesome Tech Jobs And Careers
 
@@ -26,8 +30,8 @@ References to job and career details, organized by country and category.
 
 ## Contents
 
-- [Online references](#online-references)
-- [Portugal](#portugal)
+- [Online References](#online-references)
+- [Portugal 🇵🇹](#portugal)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -44,7 +48,7 @@ References to job and career details, organized by country and category.
 - [Daloop](https://daloop.recruitee.com/) - Data powered fleet electrification.
 - [Mercedes-Benz.io](https://www.mercedes-benz.io/jobs) - Shaping the digital future of Mercedes-Benz. 
 - [miio](https://www.miio.pt/careers) - Electric mobility digital solutions with fleet management. 
-- [Nexar](https://nexar-1702298813.teamtailor.com/#jobs) -  Automative data collection and intelligence.
+- [Nexar](https://nexar-1702298813.teamtailor.com/#jobs) - Automative data collection and intelligence.
 - [tb.lx](https://www.tblx.io/careers) - Daimler Trucks and Buses IoT data into intelligent global services. 
 - [Volkswagen Digital Solutions](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) - Creating the digital ecosystem for the brands of the Volkswagen Group. 
 
@@ -52,7 +56,7 @@ References to job and career details, organized by country and category.
 
 ## Follow
 
-- [marmelo](https://github.com/marmelo/tech-companies-in-portugal) :octocat:
+- :octocat: [marmelo](https://github.com/marmelo/tech-companies-in-portugal)
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
