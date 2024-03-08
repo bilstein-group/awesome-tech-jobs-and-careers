@@ -40,6 +40,9 @@ References to job and career details, organized by country and category.
 ## Online References
 
 - [remote|OK](https://remoteok.com/) - Find remote jobs by country.
+- [Hiire](https://hiire.teamtailor.com/) - Recruitment company.
+- [HUC People](https://www.hucpeople.co.uk/live-roles) - Hiring business partner.
+- [Kelly](https://www.kellyservices.pt/en/job-results) - Recruitment company.
 
 ## Portugal
 ### Automotive
@@ -52,6 +55,7 @@ References to job and career details, organized by country and category.
 - [Nexar](https://nexar-1702298813.teamtailor.com/#jobs) - Automative data collection and intelligence.
 - [tb.lx](https://www.tblx.io/careers) - Daimler Trucks and Buses IoT data into intelligent global services. 
 - [Volkswagen Digital Solutions](https://www.linkedin.com/company/volkswagen-digital-solutions/jobs/) - Creating the digital ecosystem for the brands of the Volkswagen Group. 
+- [Faurecia](https://jobs.faurecia.com/careers?location=Lisboa%2CPortugal) - Global automotive and technology.
 
 ### Consultancy
 
@@ -76,7 +80,6 @@ References to job and career details, organized by country and category.
 - [Link Consulting](https://www.linkconsulting.com/its-fun-to-work-at-link/) - Global Tech, Consultancy, Services and Innovation.
 - [LIS @ IPN](https://www.ipn.pt/laboratorio/LIS) - Technological R&D and innovative multi-disciplinary projects.
 - [LTPLabs](https://ltplabs.com/jobs/) - Boutique analytical-driven management consultancy company.
-- [KI labs](https://ki-labs.com/careers/) - Solve complex tech and business challenges for big corporations.
 - [InnoWave](https://innowave.tech/careers/) - Global technology and consulting company.
 - [IT People](https://itpeople.pt/speak-to-us/) - Outsourcing & Nearshore Development.
 - [Mindera](https://mindera.com/#we-are-hiring) - Technology development and consultancy.
@@ -98,14 +101,14 @@ References to job and career details, organized by country and category.
 - [Affinity](https://affinity.pt/en/careers/) - Consultancy, Outsourcing.
 - [AGAP2](https://www.agap2-it.pt) - Consultancy, Outsourcing.
 - [Alter Solutions](https://www.alter-solutions.com/join-us) - Consultancy, Outsourcing, and Nearshore projects.
-- [Ankix](https://www.ankix.com/) [:rocket:](https://www.ankix.com/it-job-offers) - Consultancy, Outsourcing.
+- [Ankix](https://www.ankix.com/oportunidades-emprego) - Consultancy, Outsourcing.
 - [Aubay](https://www.aubay.pt/Home/Opportunities) - Consultancy, Outsourcing, and Nearshore projects.
 - [Bee Engineering](https://www.bee-eng.pt/pt/carreira/) - Consultancy, Outsourcing.
-- [BOLD by Devoteam](https://bold.devoteam.com/join-us/) - Consultancy, Outsourcing.
+- [Devoteam](https://pt.devoteam.com/pt-pt/junte-se-a-nos-na-devoteam/) - Consultancy, Outsourcing.
 - [Damia](https://www.damiagroup.pt/careers/) - Human 2 Human Tech Recruitment.
 - [Dellent Consulting](https://dellentconsulting.com/_carreiras/) - Consultancy, Outsourcing.
 - [Everis](https://www.everis.com/portugal/pt-pt/home-pt) - Consultancy, Outsourcing.
-- [Inoweiser](https://www.inoweiser.com/careers) - Consultancy
+- [Inoweiser](https://www.inoweiser.com/careers) - Consultancy.
 - [Integer Consulting](https://integerconsulting.pt/opportunity/) - Consultancy, Outsourcing and Nearshore.
 - [KCSIT](https://kcsit.pt/carreiras/) - Consultancy, Outsourcing.
 - [Match Profiler](https://www.m-profiler.com/carreiras) - Consultancy, Outsourcing.
@@ -146,15 +149,32 @@ References to job and career details, organized by country and category.
 - [Whitesmith](https://www.whitesmith.co/#get-in-touch) - Helping clients build amazing digital products that people love.
 - [YLD](https://www.yld.io/join-us/) - Software engineering, design, training and open-source.
 - [Kantar](https://www.kantar.com/careers) - Empower brands.
-
+- [PDMFC](https://careers.pdmfc.com/) - Consulting services to help clients grow and prosper in their markets.
+- [COCUS](https://www.cocus.com/en/about-us/it-career/) - Develop and implement innovative IT solutions.
+- [Intellias](https://career.intellias.com/) - Trusted technology partner to top-tier organizations. 
+- [Expert Thinking](https://expert-thinking.co.uk/current-vacancies/) - Create, build and support powerful, dynamic, cost-optimised cloud solutions.
+- [Zühlke Group](https://www.zuehlke.com/en/careers) - Empower our clients to envision and create a sustainable future.
+- [Coreteam](https://coreteamgroup.com/about/#opportunities) - Delivering successful projects and making systems and teams work effectively.
+- [Usercentrics](https://usercentrics.com/career/) - Unlock marketing opportunities with consented data.
+- [xelerate.tech](https://www.xelerate.tech/jobs/) - Accelerate digital transformations.
+- [Eurotux](https://eurotux.com/careers/) - IT Services.
+- [Covent IT](https://coventit.com/vacancies) - Custom Software Development.
+- [Veeva Systems](https://careers.veeva.com/job-search-results/?location=Portugal&country=PT&radius=200) - Cloud-computing company that provides industry-specific software solutions for the life sciences and pharmaceutical industries.
+- [Samsys](https://samsys.pt/recrutamento/) - IT Services.
+- [DSR Corporation](https://pt.dsr-corporation.com/careers/) - Software development and consulting company.
+- [DBServices](https://join.com/companies/dbservices) - Design, develop and support digital platforms.
+- [Mobiweb](https://careers.mobiweb.pt/#jobs) - Mobile and web applications for different industries.
+- [Visma](https://www.visma.com/careers/open-positions) - Cloud solutions.
+- [Cegid](https://jobs.cegid.com/en/) - Cloud solutions.
+- [Amaris Consulting](https://amaris.com/) - Technology consulting.
 
 ### Developer Tools
 
 - [Codacy](https://www.codacy.com/careers) - Automated code reviews & code analytics.
 - [Datadog](https://careers.datadoghq.com/) - Cloud monitoring as a service.
 - [Docker](https://www.docker.com/careers/) - Container and k8s tooling for developers.
-- [Oracle](https://www.oracle.com/corporate/careers/) - DBMS's and information systems.
-- [OutSystems](https://www.outsystems.com/company/careers/) - Low-code platform to visually develop applications.
+- [Oracle](https://www.oracle.com/pt/careers/) - DBMS's and information systems.
+- [OutSystems](https://www.outsystems.com/careers/job-list/?page=1) - Low-code platform to visually develop applications.
 - [PagerDuty](https://careers.pagerduty.com/) - Real-time operations and incident management platform.
 - [Reviewpad](https://reviewpad.com/discord/hiring) - Pull request automations to safely merge faster with happy developers.
 - [Rows](https://github.com/dashdash/hiring) - Create interactive web apps using spreadsheet skills.
@@ -162,8 +182,12 @@ References to job and career details, organized by country and category.
 - [Synopsys](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359) - Silicon chip design, verification, IP integration and application security.
 - [Stream](https://getstream.io/team/#jobs) - API and SDK for chat messaging and activity feeds.
 - [Unbabel](https://unbabel.com/careers/) - Translation as a Service.
+- [TheyDo](https://www.theydo.com/careers) - The Platform for Customer-Centric Collaboration.
+- [Rely.io](https://www.rely.io/careers) - Developer portal.
+- [Miro](https://miro.com/careers/open-positions/?location=remote-emea) - Whiteboard platform that allows teams to work together in real-time.
 
 ### E-Commerce
+
 - [360imprimir](https://www.360imprimir.pt/Home/Carreiras) - Online platform for marketing products and services.
 - [Aptoide](https://pt.aptoide.com/company/jobs) - Your Android app store.
 - [Blip](https://blip.pt/jobs/) - Online betting and gambling operator. 
@@ -182,14 +206,20 @@ References to job and career details, organized by country and category.
 - [Uniplaces](https://careers.uniplaces.com/) - Student accomodation platform.
 - [Care to Beauty](https://www.caretobeauty.com/pt/careers) - Simplify access to beauty.
 - [AUTODOC](https://autodoc.group/en/career) - Allowing customers to get around reliably with their car, motorbike, or truck.
+- [BCA](https://www.bca.com/pt-PT/pt/BCA-MEDIA-MENU/Carreiras/) - European car market.
+- [Printify](https://jobs.printify.com/) - Print-on-demand.
+- [Carwow](https://www.carwow.co.uk/jobs#gref) - Car buying and selling.
+- [BySide](https://byside.freshteam.com/jobs) - Turning visitors into buyers.
+- [Bounce](https://usebounce.com/careers) - Luggage storage.
+- [Rarible](https://jobs.lever.co/Rarible) - NFT marketplace.
 
 ### Education
 
 - [DreamShaper](https://dreamshaper.com/) - Classroom tools to improve student work related skills.
-- [Edubox](https://edubox.pt/candidaturas)- Educational solutions and school management software.
-- [ELSA](https://elsaspeak.com/careers)- AI-powered tool to improve pronunciation skills.
+- [Edubox](https://edubox.pt/candidaturas) - Educational solutions and school management software.
+- [ELSA](https://elsaspeak.com/careers) - AI-powered tool to improve pronunciation skills.
 - [MUSa Software](https://musasoftware.com/) - ERP and web products for art schools.
-- [Springer Nature](https://group.springernature.com/gp/group/careers)- Global publisher dedicated to help the whole research community.
+- [Springer Nature](https://group.springernature.com/gp/group/careers) - Global publisher dedicated to help the whole research community.
 
 ### Enterprise Software
 
@@ -211,7 +241,7 @@ References to job and career details, organized by country and category.
 - [InnovationCast](https://innovationcast.com/) - Collaborative Innovation Management Software.
 - [InvoiceXpress](https://www.invoicexpress.com/) - Online Invoicing Software.
 - [KEEP SOLUTIONS](https://www.keep.pt/empresa/carreiras/) - Advanced solutions for information management.
-- [kununu](https://corporate.xing.com/en/career/porto/) - Workplace insights that matter.
+- [kununu](https://www.new-work.se/en/career/vacancies?company=5742) - Workplace insights that matter.
 - [Mind](https://www.mind.pt/) - Information management and industrial systems.
 - [Moviik](https://www.moviik.com) - Customer Journey Management Platform.
 - [Nmbrs](https://www.nmbrs.com/en/careers) - HR & Payroll software.
@@ -229,6 +259,11 @@ References to job and career details, organized by country and category.
 - [VAKT Global Ltd.](https://www.vakt.com/careers/) - Enterprise grade blockchain commodities trading platform.
 - [VOID Software](https://www.void.pt/) - Systems design & architecture using different technology stacks.
 - [Metyis](https://metyis.com/jobs) - Big Data, Digital Commerce, Marketing and Design solutions.
+- [Tillster](https://www.tillster.com/careers) - Digital solutions for the restaurant industry.
+- [Zendesk](https://jobs.zendesk.com/us/en/search-results?location=Portugal) - Customer service software and cloud-based customer engagement platforms.
+- [Planet](https://www.weareplanet.com/careers) - Integrated payment solutions.
+- [Newhotel Software](https://www.newhotel.com/en/Main/company/careers.aspx) - Integrated software that opens new horizons for hotel management business.
+- [Santander](https://www.betechwithsantander.com/pt_br/home#offers) - Bank.
 
 ### FinTech
 
@@ -259,11 +294,14 @@ References to job and career details, organized by country and category.
 - [SwissBorg](https://swissborg.com/careers) - Crypto currencies exchange.
 - [Switch](https://switchpayments.com/about/careers) - The payments infrastructure for interoperability.
 - [Uphold](https://uphold.com/resources/careers) - US cloud based financial services platform.
-- [Rauva](https://rauva.bamboohr.com/careers) - Portugal’s first business super-app.
+- [Rauva](https://rauva.bamboohr.com/careers) - Portugal's first business super-app.
+- [Finsolutia](https://www.finsolutia.com/careers) - Leading Fintech Servicer in Iberia.
+- [Devexperts](https://careers.devexperts.com/) - Financial software and services for brokerages.
+- [ComparaJá.pt](https://www.comparaja.pt/trabalhar-no-comparaja) - Online platform for comparing financial and non-financial products.
 
 ### Gaming
 
-- [ESL FACEIT GROUP](https://eslfaceitgroup.com/career/)- E-Sports and social platform.
+- [ESL FACEIT GROUP](https://eslfaceitgroup.com/career/) - E-Sports and social platform.
 - [Fabamaq](https://www.fabamaq.com/pages.php?page_id=311) - Casino digital games.
 - [Fun Punch Games](https://funpunchgames.com/) - Independent game development studio.
 - [Funcom ZPX](https://www.funcom.com/funcom-zpx/) - Full-range game development studio offering design, art, coding.
@@ -275,33 +313,40 @@ References to job and career details, organized by country and category.
 ### Healthcare
 
 - [Criteria Marathon](https://www.criteriamarathon.com/) - Software Engineering and Information Technologies in the Medical Sector.
-- [iLoF](https://ilof.tech/) - Revolutionizing Alzheimer’s drug discovery using bio-photonics and AI.
+- [iLoF](https://ilof.tech/) - Revolutionizing Alzheimer's drug discovery using bio-photonics and AI.
 - [LetsGetChecked](https://boards.eu.greenhouse.io/letsgetchecked/) - The future of healthcare starts at home.
 - [Nutrium](https://nutrium.factorialhr.pt/#jobs) - Nutrition platform for improving eating habits around the world.
 - [Promptly](https://www.promptlyhealth.com/en/careers/) - Follow-up the outcomes of your medical treatments.
 - [Sword Health](https://swordhealth.com/company/careers) - Improving the musculoskeletal pain treatment process.
+- [Amgen](https://careers.amgen.com/en) - Biopharmaceutical.
 
 
 ### Industry
 
 - [Critical Manufacturing](https://careers.criticalmanufacturing.com/) - Manufacturing business-critical applications.
-- [FARO Technologies](https://www.faro.com/about-faro/career/) - The world’s most trusted source for 3d measurement.
+- [FARO Technologies](https://www.faro.com/about-faro/career/) - The world's most trusted source for 3d measurement.
 - [Malvern Panalytical](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers) - Laboratory analytical instruments design and manufacturing.
 - [Relex Solutions](https://www.relexsolutions.com/careers/) - The market-leading supply chain & retail planning platform.
 - [Smartex](https://www.smartex.ai/careers) - AI for the Next Generation of Textiles.
 - [SONAE](https://mc.sonae.pt/en/careers/) - Retail group.
+- [Infineon Technologies](https://www.infineon.com/cms/en/careers/) - Global semiconductor leader in power systems and IoT.
+- [Siemens](https://jobs.siemens.com/careers?location=Porto%2C%20Porto%2C%20Portugal) -  Electronics, manufacturing and tecnhology conglomerate.
+- [Evolution](https://careers.evolution.com/all-vacancies/) - Solutions for live casino.
+- [Kuehne+Nagel](https://jobs.kuehne-nagel.com/global/en/) - Transportation and logistic.
 
 ### Mobility
 
 - [FAIRTIQ](https://fairtiq.com/en/careers) - Public transport electronic tickets.
 - [Stratio](https://careers.stratioautomotive.com/) - Predictive fleet maintenance platform.
+- [Indie Campers](https://indiecampers.co.uk/careers) - Campervan rental. 
 
 ### Multimedia
 
 - [Glookast](https://www.glookast.com/) - Solving the media workflow puzzle.
 - [MediaGaps](https://www.mediagaps.com/) - Bridging your workflow gaps.
 - [MOG Technologies](https://www.mog-technologies.com/company/careers) - End-to-end solutions for professional media.
-- [Sky](https://careers.sky.com) - TV, broadband, talk, streaming and mobile.
+- [Sky](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers) - TV, broadband, talk, streaming and mobile.
+- [Vizrt](https://apply.workable.com/vizrt/) - Leading provider of visual storytelling tools for media content creators.
 
 
 ### Sea
@@ -326,10 +371,10 @@ References to job and career details, organized by country and category.
 - [Integrity](https://www.integrity.pt/careers.html) - Consulting and tech audit focused on information Security.
 - [Jscrambler](https://jscrambler.com/careers) - JavaScript application integrity and security.
 - [Layer8](https://www.layer8.pt) - Consulting, technology and security managed services.
-- [Multicert](https://sibs-sgps.zohorecruit.eu/careers) - CA, enterprise security software products and consulting.
 - [NCC Group](https://www.nccgroupplc.com/careers/) - Global experts in cyber security and risk mitigation.
 - [Probely](https://careers.probely.com) - Automated web application security scanning as a service.
 - [S21sec](https://www.s21sec.com/join-us/) - Cybersecurity services.
+- [SoSafe](https://sosafe-awareness.com/careers/) - Cybersecurity services.
 
 
 ### Social
@@ -349,12 +394,13 @@ References to job and career details, organized by country and category.
 - [Carrot](https://carrotincentives.com/) - ICM for Telco companies.
 - [Celfocus](https://careers.celfocus.com/) - Vodafone technology development.
 - [GoContact](https://www.gocontact.pt/join-us/) - Company specialized in integrated solutions for Contact Centers.
-- [Mobileum](https://www.mobileum.com/careers/) - Telecom analytics solutions provider. - `Braga` `Lisboa` -
-- [Nokia](https://www.nokia.com/about-us/careers/opportunities/portugal/) - Communications and information technology company.
+- [Mobileum](https://www.mobileum.com/careers/) - Telecom analytics solutions provider.
+- [Nokia](https://www.nokia.com/about-us/careers/) - Communications and information technology company.
 - [Readiness IT](https://readinessit.com/careers/) - Telecommunications technologies.
 - [Talkdesk](https://www.talkdesk.com/careers/) - Enterprise cloud contact center.
 - [WIT Software](https://www.wit-software.com/careers/) - Software development for telcom services (OTT, RCS, Mobile, Web & others).
-- [Truphone](https://web.truphone.com/careers/) - Global mobile connectivity and eSIM technology innovator.
+- [Truphone](https://www.truphone.com/careers/vacancies/) - Global mobile connectivity and eSIM technology innovator.
+- [1GLOBAL](https://www.1global.com/vacancies) - Mobile solutions.
 
 ### Travel
 
@@ -362,12 +408,14 @@ References to job and career details, organized by country and category.
 - [Hostelworld](https://www.hostelworldgroup.com/careers) - World's leading hostel-focused online booking platform.
 - [Ryanair](https://careers.ryanair.com/search/#search/location=portugal&departments=ryanair-labs-portugal) - Ryanair is an Irish ultra low-cost carrier.
 - [TripAdvisor](https://careers.tripadvisor.com) - The largest "social travel website" in the world.
+- [TUI](https://careers.tuigroup.com/jobs/) - Global travel and leisure experience company.
 
 <!-- END CONTENT -->
 
 ## Follow
 
-- :octocat: [marmelo](https://github.com/marmelo/tech-companies-in-portugal)
+- [marmelo](https://github.com/marmelo/tech-companies-in-portugal)
+- [Luis Parada](https://www.linkedin.com/in/parada)
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
