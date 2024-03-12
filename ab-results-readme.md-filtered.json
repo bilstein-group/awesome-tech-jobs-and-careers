@@ -1,0 +1,65 @@
+[
+  {
+    "loc": 104,
+    "status": -1,
+    "link": "https://www.ankix.com/oportunidades-emprego",
+    "redirect": "",
+    "error": "Net::ReadTimeout"
+  },
+  {
+    "loc": 176,
+    "status": -1,
+    "link": "https://www.oracle.com/pt/careers/",
+    "redirect": "",
+    "error": "Net::ReadTimeout"
+  },
+  {
+    "loc": 177,
+    "status": 403,
+    "link": "https://www.outsystems.com/careers/job-list/?page=1",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 209,
+    "status": 403,
+    "link": "https://www.bca.com/pt-PT/pt/BCA-MEDIA-MENU/Carreiras/",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 284,
+    "status": 403,
+    "link": "https://www.kraken.com/careers",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 376,
+    "status": 247,
+    "link": "https://www.s21sec.com/join-us/",
+    "redirect": "",
+    "error": ""
+  },
+  {
+    "loc": 389,
+    "status": -1,
+    "link": "https://careers.adidas-group.com/",
+    "redirect": "",
+    "error": "Net::ReadTimeout"
+  },
+  {
+    "loc": 398,
+    "status": -1,
+    "link": "https://www.nokia.com/about-us/careers/",
+    "redirect": "",
+    "error": "Net::ReadTimeout"
+  },
+  {
+    "loc": 408,
+    "status": 403,
+    "link": "https://www.hostelworldgroup.com/careers",
+    "redirect": "",
+    "error": ""
+  }
+]
