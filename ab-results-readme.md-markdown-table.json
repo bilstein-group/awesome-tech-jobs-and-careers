@@ -1,5 +1,0 @@
-{
-  "error": true,
-  "title": "Found 9 link issues",
-  "message": "#### Link issues by [`awesome_bot`](https://github.com/dkhamsing/awesome_bot)\n\n  Line | Status | Link\n| ---: | :----: | --- |\n104 | Error | https://www.ankix.com/oportunidades-emprego <br> Net::ReadTimeout\n176 | Error | https://www.oracle.com/pt/careers/ <br> Net::ReadTimeout\n177 | [403](https://httpstatuses.com/403) | https://www.outsystems.com/careers/job-list/?page=1 \n209 | [403](https://httpstatuses.com/403) | https://www.bca.com/pt-PT/pt/BCA-MEDIA-MENU/Carreiras/ \n284 | [403](https://httpstatuses.com/403) | https://www.kraken.com/careers \n376 | [247](https://httpstatuses.com/247) | https://www.s21sec.com/join-us/ \n389 | Error | https://careers.adidas-group.com/ <br> Net::ReadTimeout\n398 | Error | https://www.nokia.com/about-us/careers/ <br> Net::ReadTimeout\n408 | [403](https://httpstatuses.com/403) | https://www.hostelworldgroup.com/careers \n"
-}
