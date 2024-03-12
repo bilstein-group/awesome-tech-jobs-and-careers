@@ -43,6 +43,7 @@ References to job and career details, organized by country and category.
 - [Hiire](https://hiire.teamtailor.com/) - Recruitment company.
 - [HUC People](https://www.hucpeople.co.uk/live-roles) - Hiring business partner.
 - [Kelly](https://www.kellyservices.pt/en/job-results) - Recruitment company.
+- [Remote](https://remote.com/) - HR platform.
 
 ## Portugal
 ### Automotive
@@ -308,6 +309,7 @@ References to job and career details, organized by country and category.
 - [Ground Control](https://www.gcontrolgames.com/) - Indie games/VR studio.
 - [Miniclip](https://corporate.miniclip.com/careers/vacancies) - Mobile and web game development company.
 - [Not a Game Studio](https://www.notagamestudio.com/) - Game development studio focused on the experience of the users.
+- [Kaizen](https://careers.kaizengaming.com/apply) - Game tech.
 
 
 ### Healthcare
@@ -320,6 +322,9 @@ References to job and career details, organized by country and category.
 - [Sword Health](https://swordhealth.com/company/careers) - Improving the musculoskeletal pain treatment process.
 - [Amgen](https://careers.amgen.com/en) - Biopharmaceutical.
 
+### Human Resources
+
+- [Remote](https://remote.com/openings) - HR platform.
 
 ### Industry
 
@@ -347,7 +352,6 @@ References to job and career details, organized by country and category.
 - [MOG Technologies](https://www.mog-technologies.com/company/careers) - End-to-end solutions for professional media.
 - [Sky](https://sky.wd3.myworkdayjobs.com/en-US/sky_careers) - TV, broadband, talk, streaming and mobile.
 - [Vizrt](https://apply.workable.com/vizrt/) - Leading provider of visual storytelling tools for media content creators.
-
 
 ### Sea
 
