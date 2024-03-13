@@ -33,6 +33,7 @@ References to job and career details, organized by country and category.
 
 - [Online References](#online-references)
 - [Portugal](#portugal)
+- [United Kingdom](#united-kingdom)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -126,7 +127,7 @@ References to job and career details, organized by country and category.
 - [Eyenov](https://eyenov.com) - Computer Vision. Machine Learning. Mobile, desktop and embedded.
 - [DareData Engineering](https://www.daredata.engineering/jointheteam) - Data Science, Data Engineering and MLOps Consulting Boutique.
 - [Fruition Partners](https://www.fruitionpartners.nl/) - Consultancy and Application Development based on ServiceNow.
-- [JTA](https://www.thedatascientists.com) - Machine Learning, Reporting and custom vizualizations services.
+- [JTA](https://www.thedatascientists.com/careers/) - Machine Learning, Reporting and custom vizualizations services.
 - [Kwanko](https://www.kwanko.com/about-us/careers/) - An International leader in Crossdevice Performance Marketing.
 - [Laminar](https://laminarprojects.com/join-us/) - Building world class apps for the construction industry.
 - [NILG.AI](https://nilg.ai/) - Transforming data into actionable knowledge through AI.
@@ -413,6 +414,11 @@ References to job and career details, organized by country and category.
 - [Ryanair](https://careers.ryanair.com/search/#search/location=portugal&departments=ryanair-labs-portugal) - Ryanair is an Irish ultra low-cost carrier.
 - [TripAdvisor](https://careers.tripadvisor.com) - The largest "social travel website" in the world.
 - [TUI](https://careers.tuigroup.com/jobs/) - Global travel and leisure experience company.
+
+## United Kingdom
+### Automotive
+- [Williams Racing](https://alcority.wd1.myworkdayjobs.com/WilliamsRacing) - Formula 1 team.
+
 
 <!-- END CONTENT -->
 
